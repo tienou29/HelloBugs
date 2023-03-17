@@ -1,4 +1,9 @@
 # HelloBugs
+
+Projet OpenClassroom pour bien setup Eclipse dans le but de faire du de vrai projet + tard haha 
+
+
+
 A Java project with some code that needs fixes.  
 
 1. Look at the code
